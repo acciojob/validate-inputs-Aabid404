@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  background-color: white;
+}
